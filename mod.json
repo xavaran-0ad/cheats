@@ -1,0 +1,10 @@
+{
+  "name": "cheats",
+  "version": "0.0.1",
+  "label": "cheats",
+  "description": "Reveal map + see all chats",
+  "ignoreInCompatibilityChecks": false,
+  "dependencies": [
+    "0ad=0.0.26"
+  ]
+}
